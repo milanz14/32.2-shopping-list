@@ -1,0 +1,27 @@
+{
+  "name": "unit32.2-routing-middleware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milanz14/32.2-shopping-list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milanz14/32.2-shopping-list/issues"
+  },
+  "homepage": "https://github.com/milanz14/32.2-shopping-list#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "supertest": "^6.1.3"
+  }
+}
