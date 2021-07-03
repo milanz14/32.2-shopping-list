@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/milanz14/32.2-shopping-list#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "nodemon": "^2.0.9"
   },
   "devDependencies": {
     "supertest": "^6.1.3"
